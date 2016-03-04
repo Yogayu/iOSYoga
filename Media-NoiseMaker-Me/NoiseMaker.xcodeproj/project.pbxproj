@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9A1294041BC526F200935A5A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1294031BC526F200935A5A /* AppDelegate.swift */; };
+		9A1294061BC526F200935A5A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1294051BC526F200935A5A /* ViewController.swift */; };
+		9A1294091BC526F200935A5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A1294071BC526F200935A5A /* Main.storyboard */; };
+		9A12940B1BC526F200935A5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A12940A1BC526F200935A5A /* Assets.xcassets */; };
+		9A12940E1BC526F200935A5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A12940C1BC526F200935A5A /* LaunchScreen.storyboard */; };
+		9A1294191BC5557D00935A5A /* applause.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9A1294151BC5557D00935A5A /* applause.wav */; };
+		9A12941A1BC5557D00935A5A /* bubbles.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9A1294161BC5557D00935A5A /* bubbles.wav */; };
+		9A12941B1BC5557D00935A5A /* guitar.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9A1294171BC5557D00935A5A /* guitar.wav */; };
+		9A12941C1BC5557D00935A5A /* monster.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9A1294181BC5557D00935A5A /* monster.wav */; };
+		9A414A751BE7272F008E88F0 /* NoiseMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A414A741BE7272F008E88F0 /* NoiseMaker.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9A1294001BC526F200935A5A /* NoiseMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoiseMaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A1294031BC526F200935A5A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9A1294051BC526F200935A5A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9A1294081BC526F200935A5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9A12940A1BC526F200935A5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9A12940D1BC526F200935A5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9A12940F1BC526F200935A5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A1294151BC5557D00935A5A /* applause.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = applause.wav; sourceTree = "<group>"; };
+		9A1294161BC5557D00935A5A /* bubbles.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bubbles.wav; sourceTree = "<group>"; };
+		9A1294171BC5557D00935A5A /* guitar.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = guitar.wav; sourceTree = "<group>"; };
+		9A1294181BC5557D00935A5A /* monster.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = monster.wav; sourceTree = "<group>"; };
+		9A414A741BE7272F008E88F0 /* NoiseMaker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoiseMaker.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A1293FD1BC526F200935A5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A1293F71BC526F200935A5A = {
+			isa = PBXGroup;
+			children = (
+				9A1294021BC526F200935A5A /* NoiseMaker */,
+				9A1294011BC526F200935A5A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9A1294011BC526F200935A5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A1294001BC526F200935A5A /* NoiseMaker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9A1294021BC526F200935A5A /* NoiseMaker */ = {
+			isa = PBXGroup;
+			children = (
+				9A1294031BC526F200935A5A /* AppDelegate.swift */,
+				9A1294051BC526F200935A5A /* ViewController.swift */,
+				9A414A741BE7272F008E88F0 /* NoiseMaker.swift */,
+				9A1294071BC526F200935A5A /* Main.storyboard */,
+				9A12940A1BC526F200935A5A /* Assets.xcassets */,
+				9A12940C1BC526F200935A5A /* LaunchScreen.storyboard */,
+				9A12941D1BC5558B00935A5A /* Supporting Files */,
+			);
+			path = NoiseMaker;
+			sourceTree = "<group>";
+		};
+		9A12941D1BC5558B00935A5A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9A12940F1BC526F200935A5A /* Info.plist */,
+				9A1294151BC5557D00935A5A /* applause.wav */,
+				9A1294161BC5557D00935A5A /* bubbles.wav */,
+				9A1294171BC5557D00935A5A /* guitar.wav */,
+				9A1294181BC5557D00935A5A /* monster.wav */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9A1293FF1BC526F200935A5A /* NoiseMaker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A1294121BC526F200935A5A /* Build configuration list for PBXNativeTarget "NoiseMaker" */;
+			buildPhases = (
+				9A1293FC1BC526F200935A5A /* Sources */,
+				9A1293FD1BC526F200935A5A /* Frameworks */,
+				9A1293FE1BC526F200935A5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NoiseMaker;
+			productName = NoiseMaker;
+			productReference = 9A1294001BC526F200935A5A /* NoiseMaker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9A1293F81BC526F200935A5A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = yogayu.github.io;
+				TargetAttributes = {
+					9A1293FF1BC526F200935A5A = {
+						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 86YS7NFAB9;
+					};
+				};
+			};
+			buildConfigurationList = 9A1293FB1BC526F200935A5A /* Build configuration list for PBXProject "NoiseMaker" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9A1293F71BC526F200935A5A;
+			productRefGroup = 9A1294011BC526F200935A5A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9A1293FF1BC526F200935A5A /* NoiseMaker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A1293FE1BC526F200935A5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A12941C1BC5557D00935A5A /* monster.wav in Resources */,
+				9A12941B1BC5557D00935A5A /* guitar.wav in Resources */,
+				9A12940E1BC526F200935A5A /* LaunchScreen.storyboard in Resources */,
+				9A12941A1BC5557D00935A5A /* bubbles.wav in Resources */,
+				9A12940B1BC526F200935A5A /* Assets.xcassets in Resources */,
+				9A1294091BC526F200935A5A /* Main.storyboard in Resources */,
+				9A1294191BC5557D00935A5A /* applause.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9A1293FC1BC526F200935A5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A1294061BC526F200935A5A /* ViewController.swift in Sources */,
+				9A414A751BE7272F008E88F0 /* NoiseMaker.swift in Sources */,
+				9A1294041BC526F200935A5A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9A1294071BC526F200935A5A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9A1294081BC526F200935A5A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9A12940C1BC526F200935A5A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9A12940D1BC526F200935A5A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9A1294101BC526F200935A5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9A1294111BC526F200935A5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9A1294131BC526F200935A5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NoiseMaker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = yogayu.github.io.NoiseMaker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9A1294141BC526F200935A5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NoiseMaker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = yogayu.github.io.NoiseMaker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A1293FB1BC526F200935A5A /* Build configuration list for PBXProject "NoiseMaker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A1294101BC526F200935A5A /* Debug */,
+				9A1294111BC526F200935A5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A1294121BC526F200935A5A /* Build configuration list for PBXNativeTarget "NoiseMaker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A1294131BC526F200935A5A /* Debug */,
+				9A1294141BC526F200935A5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9A1293F81BC526F200935A5A /* Project object */;
+}
