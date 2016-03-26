@@ -3,4 +3,4 @@ Those project are created while I am learning iOS developing.It's a good way to 
 
 I will add the source later (most of them are open source project).
 
-For more information, see [wiki](https://github.com/Yogayu/iOSYoga/wiki)
+**For more information, see [wiki](https://github.com/Yogayu/iOSYoga/wiki)**
