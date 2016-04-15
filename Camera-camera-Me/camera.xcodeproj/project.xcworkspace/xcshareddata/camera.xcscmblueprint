@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3F8794BEFB42F091130CC61784449B770324862B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F8794BEFB42F091130CC61784449B770324862B" : 0,
+    "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D77FDC51-865E-43B5-A561-D86F4C88BEF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F8794BEFB42F091130CC61784449B770324862B" : "iOSYoga\/",
+    "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "camera",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Camera-camera-Me\/camera.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Yogayu\/iOSYoga.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F8794BEFB42F091130CC61784449B770324862B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Yogayu\/Yogayu.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3F8794BEFB42F091130CC61784449B770324862B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F8794BEFB42F091130CC61784449B770324862B" : 0,
+    "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9107438-E05C-483B-A753-43F5DC2EB477",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F8794BEFB42F091130CC61784449B770324862B" : "iOSYoga\/",
+    "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIKitDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sunday-UI-Me\/UIKitDemo\/UIKitDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Yogayu\/iOSYoga.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F8794BEFB42F091130CC61784449B770324862B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Yogayu\/Yogayu.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAFF5D41432E15AA77A5EA6D961EE1FA840C9541"
+    }
+  ]
+}

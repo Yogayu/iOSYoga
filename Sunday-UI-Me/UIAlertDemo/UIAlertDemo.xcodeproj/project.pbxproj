@@ -156,6 +156,7 @@
 		9A64AD0A1B8230EC007E96C4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = yogayu.github.io;
 				TargetAttributes = {
@@ -413,6 +414,7 @@
 				9A64AD331B8230ED007E96C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A64AD341B8230ED007E96C4 /* Build configuration list for PBXNativeTarget "UIAlertDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +423,7 @@
 				9A64AD361B8230ED007E96C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
