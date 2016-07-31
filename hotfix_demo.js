@@ -11,7 +11,7 @@ defineClass('JPTableViewController : UITableViewController <UIAlertViewDelegate>
     if (data) return data;
     var data = [];
     for (var i = 0; i < 20; i ++) {
-      data.push("cell from js " + i + "test form internet.");
+      data.push("cell from js " + i + "test form internet.M");
     }
     self.setData(data)
     return data;
