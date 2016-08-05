@@ -90,4 +90,5 @@ The website I often used while making product.
 - 圈点
 - Trello
 
-
+更多信息，请见[wiki](https://github.com/Yogayu/iOSYoga/wiki)。
+**For more information, please see [wiki](https://github.com/Yogayu/iOSYoga/wiki)**.
