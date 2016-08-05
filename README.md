@@ -44,7 +44,7 @@ The website I often used while making product.
 - [Objc](https://www.objc.io/)基础到进阶推荐。
 - [DesignCode](https://designcode.io/) 了解设计流程，基本界面交互、动画等。当时完整的跟着做了一遍，收获良多。
 
-## Book:
+## 书籍 Book
 
 - The Swift Programming Language
 - iOS Human Interface
@@ -53,9 +53,9 @@ The website I often used while making product.
 个人强烈推荐的两本书，一直不断的在看，讲解细致，覆盖全面。
 - Learning iOS UI Development (Yari D'areglia)
 
-## 出版社
+## 出版社 publishing house
 
-- O'Rally
+- O'Reilly
 - Apress
 - 机械工业出版社
 
@@ -72,9 +72,9 @@ The website I often used while making product.
 
 ## 工具 Tool
 
+- Git
 - Sketch
-- 管理软件
-- iTerm
+- iTerm 2
 - Sip
 
 
