@@ -37,6 +37,7 @@ So, if a book that someone told me was very good, but I have never touched it, i
 - [Objc](https://www.objc.io/)  基础到进阶推荐。
 - [DesignCode](https://designcode.io/) 
 	- 了解设计流程，基本界面交互、动画等。当时完整的跟着做了一遍，收获良多。
+- [iOS Develop Weekly](https://iosdevweekly.com/)
 
 ## 书籍 Book
 
