@@ -38,6 +38,7 @@ So, if a book that someone told me was very good, but I have never touched it, i
 - [DesignCode](https://designcode.io/) 
 	- 了解设计流程，基本界面交互、动画等。当时完整的跟着做了一遍，收获良多。
 - [iOS Develop Weekly](https://iosdevweekly.com/)
+- [Realm blog](https://realm.io/news/)
 
 ## 书籍 Book
 
@@ -48,6 +49,8 @@ So, if a book that someone told me was very good, but I have never touched it, i
 	- 个人强烈推荐的两本书，一直不断的在看，讲解细致，覆盖全面。
 - [Learning iOS UI Development (Yari D'areglia)](https://www.packtpub.com/application-development/learning-ios-ui-development)
 - [Programming in Objective-C](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+- [The moblie application hacker's handbook]
+- [High Performance iOS Apps](https://book.douban.com/subject/26588596/)
 
 ## 出版社 Publishing House
 
