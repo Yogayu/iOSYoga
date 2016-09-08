@@ -8,18 +8,23 @@
 ## 原则 Principle
 
 在这个时代，无论想要学什么，都有极为丰富的网络资源。iOS开发也不列外。
+
 Nowadays, no matter what you want to learn, there are pretty of resources in the Internet.
 
 也许你已经看过很多这样的资源列表，所以你会想，这个资料有什么不同呢？
+
 You may have read a lot of resources lists, so you might ask what's the difference of this one? 
 
 这个列表的**不同**在于：
+
 The difference is:
 
 **我只会列出自己学习过程中，真正使用过的资源。**
+
 **I will ONLY list the resources that I REALLY used during my learning process.**
 
 所以，即使我听说一本书很好，我没去读过，那么它便不会出现在此列表中。
+
 So, if a book that someone told me was very good, but I have never touched it, it wouldn't on the list.
 
 ## 网站 Website
@@ -43,13 +48,13 @@ So, if a book that someone told me was very good, but I have never touched it, i
 ## 书籍 Book
 
 - The Swift Programming Language
-- iOS Human Interface
+- iOS Human Interface Design
 - [iOS 8 Programming Fundation with Swift (Matt Neuburg)](http://shop.oreilly.com/product/0636920044345.do?sortby=publicationDate)
 - [Programming iOS 9 (Matt Neuburg)](http://shop.oreilly.com/product/0636920044352.do?sortby=publicationDate)
 	- 个人强烈推荐的两本书，一直不断的在看，讲解细致，覆盖全面。
 - [Learning iOS UI Development (Yari D'areglia)](https://www.packtpub.com/application-development/learning-ios-ui-development)
 - [Programming in Objective-C](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
-- [The moblie application hacker's handbook]
+- The moblie application hacker's handbook
 - [High Performance iOS Apps](https://book.douban.com/subject/26588596/)
 
 ## 出版社 Publishing House
